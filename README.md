@@ -20,10 +20,8 @@ The work proposes a multi-task learning framework with CORAL-based feature align
 ## Repository Structure
 
 ```
-└── multi_task_coral_plantdisease.ipynb   # Main training and evaluation notebook
+└── domain_shift_plantvillage_plantdoc.ipynb   # Main training and evaluation notebook
 ```
-
----
 
 ## Setup
 
